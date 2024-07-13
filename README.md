@@ -1,3 +1,3 @@
 # R-Language-Chapters
 
-[R Basics - Chapter 01](https://github.com/Zain-Zameer/R-Language-Chapter-01)
+[Chapter 01 - R Basics](https://github.com/Zain-Zameer/R-Language-Chapter-01)
